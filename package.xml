@@ -7,6 +7,16 @@
   <license>GPL3</license>
   <url type="website">https://www.poppy-project.org/</url>
   <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <run_depend>trajectory_msgs</run_depend>
+  <build_depend>trajectory_msgs</build_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <run_depend>std_msgs</run_depend>
+  <build_depend>std_msgs</build_depend>
+  <run_depend>message_generation</run_depend>
+  <build_depend>message_generation</build_depend>
   <export>
   </export>
 </package>
