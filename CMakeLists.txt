@@ -47,6 +47,7 @@ find_package(
 ## Generate services in the 'srv' folder
 add_service_files(
   FILES
+  ReachTarget.srv
   ExecuteTrajectory.srv
   SetCompliant.srv
 )
