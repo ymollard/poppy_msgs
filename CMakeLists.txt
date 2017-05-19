@@ -50,6 +50,8 @@ add_service_files(
   ReachTarget.srv
   ExecuteTrajectory.srv
   SetCompliant.srv
+  SetTorqueMax.srv
+  SetIdleMotion.srv
 )
 
 ## Generate actions in the 'action' folder
